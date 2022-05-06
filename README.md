@@ -33,4 +33,4 @@ Send `help` in Program to get list of commands.
 
 ### Facing error in Recognizing ?
 [Check Here](https://github.com/itzzzyashu/AnonAi/blob/8fab5f4e9fd49aebc38a451d7b5cbf1bf67e05d7/AnonAi.py#L149)
-* comment another input method.
+comment `command = take_command()` instead of `command = input("⪼  ⪼  ")`.
