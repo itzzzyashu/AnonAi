@@ -16,7 +16,7 @@ _Make sure you have installed git._
 
 * Open `C://Users/user/AnonAi` and edit the `config.py` file as it wants.
 * Then open your `Command Prompt`.
-* Type `cd AnonAi-master`, Enter.
+* Type `cd AnonAi`, Enter.
 * Finally Run `python AnonAi.py` command.
 
 ### Run guide.
