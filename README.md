@@ -20,6 +20,8 @@ Run `git clone https://github.com/itzzzyashu/AnonAi.git`.
 *Note:*
 _Make sure you have installed git._
 
+* Run `config.py` file once.
+* Then download "PyAudio Unofficial Library" (Google it) and Install it in your os.
 * Open `C://Users/user/AnonAi` and edit the `config.py` file as it wants.
 * Then open your `Command Prompt`.
 * Type `cd AnonAi`, Enter.
@@ -27,3 +29,8 @@ _Make sure you have installed git._
 
 ### Run guide.
 Send `help` in Program to get list of commands.
+
+
+### Facing error in Recognizing ?
+[check this line]()
+* comment another input method.
