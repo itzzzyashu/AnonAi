@@ -41,7 +41,7 @@ class Config():
 # Copy paste your Requirements.txt path in req_path.
 req_path = r"C:\Users\user\AnonAi\requirements.txt"
 
-# Requirements Install, after this completes, comment below line by '#'
+# Requirements Install
 os.system(f"""pip install -r "{req_path}" """)
 
 
