@@ -1,9 +1,9 @@
 # AnonAi
 AnonAi is a Ai based program.<br>
-It was built in [python programming language](https://www.python.org/).
-It can chat with you like a bestfriend using [@MetaVoid Chatbot API](https://telegram.me/KukiUpdates/23).
-This program can help you in normal things, as example:
-It can [shutdown](https://www.merriam-webster.com/dictionary/shutdown) a os by diffrent [styles(restart, shutdown, etc)](https://www.nachnet.com/the-6-different-shutdown-options/).
+It was built in [python programming language](https://www.python.org/).<br>
+It can chat with you like a bestfriend using [@MetaVoid Chatbot API](https://telegram.me/KukiUpdates/23).<br>
+This program can help you in normal things, as example:<br>
+It can [shutdown](https://www.merriam-webster.com/dictionary/shutdown) a os by diffrent [styles(restart, shutdown, etc)](https://www.nachnet.com/the-6-different-shutdown-options/).<br>
 It can play [music](https://en.wikipedia.org/wiki/Music),
 [videos](https://en.wikipedia.org/wiki/Video), and can also open your [pictures](https://en.wikipedia.org/wiki/Photograph) by accessing your media directories.
 
