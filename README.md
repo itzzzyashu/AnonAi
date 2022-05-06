@@ -28,6 +28,5 @@ Send `help` in Program to get list of commands.
 
 
 ### Facing error in Recognizing ?
-[Check Here](https://github.com/itzzzyashu/AnonAi/blob/8fab5f4e9fd49aebc38a451d7b5cbf1bf67e05d7/AnonAi.py#L149)<br>
-And comment [`command = take_command()`](https://github.com/itzzzyashu/AnonAi/blob/8fab5f4e9fd49aebc38a451d7b5cbf1bf67e05d7/AnonAi.py#L148)
+Just Comment [`command = take_command()`](https://github.com/itzzzyashu/AnonAi/blob/8fab5f4e9fd49aebc38a451d7b5cbf1bf67e05d7/AnonAi.py#L148)
 instead of [`command = input("⪼  ⪼  ")`](https://github.com/itzzzyashu/AnonAi/blob/8fab5f4e9fd49aebc38a451d7b5cbf1bf67e05d7/AnonAi.py#L149).
