@@ -16,9 +16,9 @@ It can play [music](https://en.wikipedia.org/wiki/Music),
 
 ### Installllation
 * Install using git.
-Run `git clone https://github.com/itzzzyashu/AnonAi.git`.
-*Note:*
-_Make sure you have installed git._
+Run `git clone https://github.com/itzzzyashu/AnonAi.git`.<br>
+*Note:*<br>
+_Make sure you have installed git._<br>
 
 * Run `config.py` file once.
 * Then download "PyAudio Unofficial Library" (Google it) and Install it in your os.
