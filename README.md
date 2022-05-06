@@ -14,12 +14,8 @@ It can play [music](https://en.wikipedia.org/wiki/Music),
 * Microphone
 * Speaker
 
-### Installllation
-* Install using git.
-Run `git clone https://github.com/itzzzyashu/AnonAi.git`.<br>
-*Note:*<br>
-_Make sure you have installed git._<br>
-
+### Installation
+* Run `git clone https://github.com/itzzzyashu/AnonAi.git`.
 * Run `config.py` file once.
 * Then download "PyAudio Unofficial Library" (Google it) and Install it in your os.
 * Open `C://Users/user/AnonAi` and edit the `config.py` file as it wants.
