@@ -1,0 +1,4 @@
+speech_recognition
+wikipedia
+pyttsx3
+webbrowser
