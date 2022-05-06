@@ -145,8 +145,9 @@ def takecommand():
 
 # STARTS AI WORK
 def run_anon():
-    # command = take_command()
-    command = input("⪼  ⪼  ")
+    command = take_command()
+    # command = input("⪼  ⪼  ")
+    
     command=command.lower()
     if "help" in command:
         help_section=f'''
