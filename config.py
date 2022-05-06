@@ -1,5 +1,5 @@
 # Run this file and wait until it download all required modules.
-# Then run download "PyAudio Unofficial Library" (Google it) and Install it in your system.
+# Then download "PyAudio Unofficial Library" (Google it) and Install it in your system.
 # Comment the "# Requirements Install" code line [ os.system(f"""pip install -r "{req_path}" """) ] (use # to comment that line).
 # After this all, run "AnonAi.py" file | Welcome to Anon Ai.
  
