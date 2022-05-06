@@ -95,7 +95,7 @@ else:
 
 dttm=f'''\n
 ||                                     ||
-{time.strftime("%H:%M:%S - %d/%m/%Y", time.localtime(time.time()))} {CNT}
+        {time.strftime("%H:%M:%S - %d/%m/%Y", time.localtime(time.time()))} {CNT}
 ||                                     ||
 '''
 
@@ -128,10 +128,24 @@ elif hour >= 22 or (hour >= 0 and hour < 6):
     elif LATE_NIGHT == True:
         print(f"\n{ainame}:\nGood Night {NAME} 😄")
         talk(f"\nGood Night {NAME}")
+        
+def takecommand():
+    try:
+        with sr.Microphone() as source:
+            print('listening...')
+            voice = listener.listen(source)
+            command = listener.recognize_google(voice)
+            command = command.lower()
+            if 'Anon' in command:
+                command = command.replace('anon', '')
+                print(command)
+    except:
+        pass
+    return command
 
 # STARTS AI WORK
 def run_anon():
-    #command = take_command()
+    # command = take_command()
     command = input("⪼  ⪼  ")
     command=command.lower()
     if "help" in command:
