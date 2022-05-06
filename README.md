@@ -8,9 +8,9 @@ It can play [music](https://en.wikipedia.org/wiki/Music),
 [videos](https://en.wikipedia.org/wiki/Video), and can also open your [pictures](https://en.wikipedia.org/wiki/Photograph) by accessing your media directories.
 
 ### Requirements
-* Python Installed and in path.
-* Git Installed.
-* Pip installed and in path.
+* [Python2.7+](https://www.python.org/) Installed and in path.
+* [Git](https://git-scm.com/) Installed.
+* [pip](https://pip.pypa.io/en/stable/installation/) installed and in path.
 * Microphone
 * Speaker
 
