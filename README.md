@@ -18,7 +18,7 @@ It can play [music](https://en.wikipedia.org/wiki/Music),
 * Open your `Command Prompt`.
 * Run `git clone https://github.com/itzzzyashu/AnonAi.git`.
 * Run `config.py` file once.
-* Then download "PyAudio Unofficial Library" (Google it) and Install it in your os.
+* Then download [PyAudio Unofficial Library](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio) and Install it in your os.
 * Open `C://Users/user/AnonAi` and edit the `config.py` file as it wants.
 * Type `cd AnonAi`, Enter.
 * Finally Run `python AnonAi.py` command.
