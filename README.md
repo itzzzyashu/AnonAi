@@ -10,7 +10,7 @@ AnonAi is a Ai based program. It was built in python programming language. It ca
 
 ### Installllation
 * Install using git.
-Run `pip install git+https://github.com/itzzzyashu/AnonAi.git`.
+Run `git clone https://github.com/itzzzyashu/AnonAi.git`.
 *Note:*
 _Make sure you have installed git._
 
