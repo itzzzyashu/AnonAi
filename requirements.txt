@@ -1,4 +1,4 @@
-speech_recognition
+SpeechRecognition
 wikipedia
 pyttsx3
 webbrowser
